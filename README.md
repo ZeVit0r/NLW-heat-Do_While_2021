@@ -54,6 +54,8 @@ Projeto desenvolvido durante a NLW(Next Level Week) Heat com foco no evento DoWh
 ```bash
 $ git clone https://github.com/gabriel-nt
 ```
+### Observação:
+<p>Crie um arquivo ".env" no backend com os seus tokens do github e uma chave aleatória para o jwt</p>
 
 ### ⚙ Para rodar o Backend
 
