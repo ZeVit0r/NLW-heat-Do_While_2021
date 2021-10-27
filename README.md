@@ -15,7 +15,8 @@
 </p>
 
 ### ✅ Screenshots
-
+  <img align="center" src="https://github.com/ZeVit0r/NLW-heat-Do_While_2021/blob/main/imgs/img.png" alt="projeto" />
+  
 ### 💻 Projeto
 
 Projeto desenvolvido durante a NLW(Next Level Week) Heat com foco no evento DoWhile2021.
